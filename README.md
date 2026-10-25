@@ -32,3 +32,27 @@ into meaningful business insights.
 - Customer segment analysis
 - Shipping mode analysis
 - Business performance insights
+
+- 💡 Key Insights
+The West region performed strongly in sales and profit.
+The Consumer segment contributed the highest sales and profit.
+The South region had the lowest sales among the regions.
+Profitability varied across regions and product categories.
+
+Note: These findings should be checked against the final dashboard and SQL results before publication.
+
+💼 Skills Demonstrated
+SQL querying and data analysis.
+Data visualization using Power BI.
+Interactive dashboard design.
+Business insights and analytical thinking.
+Data-driven decision-making.
+📝 Conclusion
+
+This project helped me practice analyzing business data using MySQL and presenting findings through an interactive Power BI dashboard. It demonstrates how data analysis and visualization can help businesses understand their performance and make informed decisions.
+
+👩‍💻 Author
+
+Shubhangi Rathi
+
+Aspiring Data Analyst
